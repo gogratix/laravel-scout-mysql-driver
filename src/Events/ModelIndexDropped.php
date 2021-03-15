@@ -1,6 +1,6 @@
 <?php
 
-namespace Yab\MySQLScout\Events;
+namespace DamianTW\MySQLScout\Events;
 
 class ModelIndexDropped
 {

@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Yab\\MySQLScout\\": "src/"
+            "DamianTW\\MySQLScout\\": "src/"
         },
         "files": [
             "src/helpers.php"
@@ -28,7 +28,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Yab\\MySQLScout\\Providers\\MySQLScoutServiceProvider"
+                "DamianTW\\MySQLScout\\Providers\\MySQLScoutServiceProvider"
             ]
         }
     }

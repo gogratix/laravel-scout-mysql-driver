@@ -1,10 +1,10 @@
 <?php
 
-namespace Yab\MySQLScout\Services;
+namespace DamianTW\MySQLScout\Services;
 
 use Laravel\Scout\Searchable;
 use Illuminate\Support\Facades\DB;
-use Yab\MySQLScout\Events;
+use DamianTW\MySQLScout\Events;
 use Illuminate\Container\Container;
 
 class IndexService
